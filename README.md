@@ -62,6 +62,6 @@ This toolkit executes a 4-phase attack to establish persistence, bypass network 
 
 ### 1. Clone & Configure
 ```bash
-git clone https://github.com/YOUR_USERNAME/UPnP-Toolkit.git
+git clone https://github.com/rick-sovior/UPnP-Toolkit.git
 cd UPnP-Toolkit
 chmod +x hack.sh
