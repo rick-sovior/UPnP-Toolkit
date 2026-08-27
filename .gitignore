@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+*.txt
+.DS_Store
+Thumbs.db
+config.sh
+credentials.txt
