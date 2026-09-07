@@ -1,23 +1,8 @@
-# Credential logs (contains captured passwords!)
-credentials.log
-
-# UPnP lab logs (contains internal IPs and network info)
-upnp_lab.log
-
-# Python cache files
 __pycache__/
 *.pyc
-*.pyo
-
-# Virtual environments
-venv/
-env/
-ENV/
-
-# IDE files (if you use VS Code or similar)
-.vscode/
-.idea/
-
-# Temporary files created by the script
-tmp.*
-*.tmp
+*.log
+*.txt
+.DS_Store
+Thumbs.db
+config.sh
+credentials.txt
